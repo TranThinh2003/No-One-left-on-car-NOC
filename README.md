@@ -16,10 +16,6 @@ The system utilizes a lightweight deep learning model deployed on a single-board
 
 ## Demo
 
-*(Gợi ý: Bạn nên tạo một file GIF ngắn ghi lại màn hình chương trình đang chạy và thay thế link bên dưới. Một video demo ngắn sẽ làm cho repo của bạn nổi bật hơn rất nhiều!)*
-
-![System Demo GIF](https://link-to-your-demo.gif)
-
 ## Performance Highlights
 
 After a comprehensive benchmark of SSDLite, NanoDet-plus, and YOLOv11, the **YOLOv11n** model was selected for its superior balance of speed and accuracy on edge hardware.
@@ -52,10 +48,9 @@ Make sure you have Python 3.8+ and Git installed.
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/your-repository-name.git
-    cd your-repository-name
+    git clone [https://github.com/TranThinh2003/No-One-left-on-car-NOC.git](https://github.com/TranThinh2003/No-One-left-on-car-NOC.git)
+    cd No-One-left-on-car-NOC
     ```
-    *(Remember to replace `your-username/your-repository-name` with your actual repository URL)*
 
 2.  **Create and activate a virtual environment (Recommended):**
     ```bash
@@ -73,9 +68,6 @@ Make sure you have Python 3.8+ and Git installed.
     ```bash
     pip install -r requirements.txt
     
-
-4.  **Download the AI Model:**
-    Download the pre-trained model weights (e.g., `model.onnx`) and place the file inside the `models/` directory.
 
 #### **3. Running the Application**
 
