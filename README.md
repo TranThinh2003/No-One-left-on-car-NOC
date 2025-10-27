@@ -50,8 +50,6 @@ Make sure you have Python 3.8+ and Git installed.
     ```bash
     git clone https://github.com/TranThinh2003/No-One-left-on-car-NOC.git
     cd No-One-left-on-car-NOC
-    ```
-
 2.  **Create and activate a virtual environment (Recommended):**
     ```bash
     # Create environment
@@ -63,14 +61,26 @@ Make sure you have Python 3.8+ and Git installed.
     # Activate on macOS/Linux
     source venv/bin/activate
     ```
-
 3.  **Install dependencies:**
     ```bash
     pip install -r requirements.txt
-    
-
 #### **3. Running the Application**
 
 To start the system, run the main GUI script:
 ```bash
 python gui.py
+```
+
+## Authors
+
+*   **Nguyễn Chí Hồng Phúc** - [Nguyen Chi Hong Phuc](https://github.com/PB3002)
+*   **Trần Hưng Thịnh** -  [TranThinh2003](https://github.com/TranThinh2003)
+
+## Supervisor
+
+*   **MSc. Phan Hồ Viết Trường**
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
